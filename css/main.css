@@ -1,0 +1,16 @@
+.cover_main_image{
+    background-image: url("../imgs/louis-hansel-shotsoflouis-SQczzyGkmpU-unsplash.jpg");
+    background-size: cover;
+}
+body{
+    background-color: #f8f8f8;
+}
+
+.stretched-link , .blog-post-title , {
+    color: #da7b7b;
+}
+
+.list-unstyled a{
+    color: #da7b7b;
+    text-decoration: none;
+}
