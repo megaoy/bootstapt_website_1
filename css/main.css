@@ -6,11 +6,27 @@ body{
     background-color: #f8f8f8;
 }
 
-.stretched-link , .blog-post-title , {
+.stretched-link , .blog-post-title {
     color: #da7b7b;
 }
 
-.list-unstyled a{
+a{
     color: #da7b7b;
     text-decoration: none;
+}
+
+a:hover{
+    color: #da0000;
+}
+
+
+.btn{
+    border-color: #da7b7b;
+    color: #ec8d67;
+}
+
+.btn:hover{
+    background-color: #da7b7b;
+    border-color: #ec8d67;
+
 }
