@@ -15,7 +15,9 @@ body{
     background-color: #cb6161;
     color: #f8f8f8;
 }
-
+/* .img-thumbnail{
+    width: 50%;
+} */
 a{
     color: #da7b7b;
     text-decoration: none;
